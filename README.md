@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Government Scheme Eligibility Website
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# govschemeweb
+This project is gover scheme eligibility chehcking website 
+>>>>>>> 7392dcce6e4c4a148b4ef7ab851a9b00868311f3
